@@ -15,7 +15,6 @@ I'm a Computer Science student at PUC Minas, in Brazil. I'm actively expanding m
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/windows.svg" width="56" alt="Windows" />
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/visualstudiocode.svg" width="56" alt="VSCode" />
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/github.svg" width="56" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/figma.svg" width="56" alt="Figma" />
 </p>
 
 **Back-end**
@@ -23,8 +22,6 @@ I'm a Computer Science student at PUC Minas, in Brazil. I'm actively expanding m
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/java.svg" width="56" alt="Java" />
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" width="56" alt="Python" />
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/c.svg" width="56" alt="C" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/csharp.svg" width="56" alt="C#" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/cpp.svg" width="56" alt="C++" />
 </p>
 
 **Database**
