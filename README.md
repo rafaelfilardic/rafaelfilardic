@@ -21,11 +21,3 @@ Sou estudante de Ciência da Computação na PUC Minas. Estou ativamente expandi
 <p align="left">
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postgresql.svg" width="56" alt="PostgreSQL" />
 </p>
-
-
-## 📊 ***GitHub stats***
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelfilardic&count_private=true&show_icons=true&theme=calm_pink" alt="Rafael's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfilardic&theme=calm_pink" alt="Top Langs" />
-</p>
