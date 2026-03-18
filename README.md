@@ -5,19 +5,15 @@ Sou estudante de Ciência da Computação na PUC Minas. Estou ativamente expandi
 
 **Ferramentas**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/windows.svg" width="56" alt="Windows" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/visualstudiocode.svg" width="56" alt="VSCode" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/github.svg" width="56" alt="GitHub" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=windows,intellijidea,git,github,visualstudiocode" />
 </p>
 
 **Backend**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/java.svg" width="56" alt="Java" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" width="56" alt="Python" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/c.svg" width="56" alt="C" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,postgresql" />
 </p>
 
-**Banco de Dados**
+**Frontend**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postgresql.svg" width="56" alt="PostgreSQL" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,javascript,html,css3" />
 </p>
